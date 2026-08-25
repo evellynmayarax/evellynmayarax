@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Evellyn! 👋🏽
 
-<!--
-**evellynmayarax/evellynmayarax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedora Front-end e UI/UX Designer, criando experiências digitais que unem design, funcionalidade e uma boa experiência para o usuário.
 
-Here are some ideas to get you started:
+Atualmente curso Gestão da Tecnologia da Informação e desenvolvo projetos com foco em interfaces modernas, responsivas e acessíveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias
+
+![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)
+![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=figma&logoColor=F24E1E)
+![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032)
+
+## Projetos em destaque
+
+### Auréa Joias
+Landing page conceitual para uma marca de joias, desenvolvida em React.
+
+### Morarê Imóveis
+Landing page para uma imobiliária, com foco em imóveis próximos ao litoral.
+
+## Vamos conversar?
+
+- [Portfólio](https://evellynsilva.dev)
+- [LinkedIn](https://www.linkedin.com/in/evellyn-silva-911718349/)
