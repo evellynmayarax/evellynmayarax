@@ -2,8 +2,6 @@
 
 Desenvolvedora Front-end e UI/UX Designer, criando experiências digitais que unem design, funcionalidade e uma boa experiência para o usuário.
 
-Atualmente curso Gestão da Tecnologia da Informação e desenvolvo projetos com foco em interfaces modernas, responsivas e acessíveis.
-
 ## Tecnologias
 
 ![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB)
@@ -13,13 +11,6 @@ Atualmente curso Gestão da Tecnologia da Informação e desenvolvo projetos com
 ![Figma](https://img.shields.io/badge/Figma-111111?style=flat&logo=figma&logoColor=F24E1E)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat&logo=git&logoColor=F05032)
 
-## Projetos em destaque
-
-### Auréa Joias
-Landing page conceitual para uma marca de joias, desenvolvida em React.
-
-### Morarê Imóveis
-Landing page para uma imobiliária, com foco em imóveis próximos ao litoral.
 
 ## Vamos conversar?
 
