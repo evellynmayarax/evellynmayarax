@@ -1,4 +1,4 @@
-# Olá, eu sou Evellyn! 👋🏽
+# Olá, eu sou Evellyn!
 
 Desenvolvedora Front-end e UI/UX Designer, criando experiências digitais que unem design, funcionalidade e uma boa experiência para o usuário.
 
