@@ -56,3 +56,14 @@
     alt="Linguagens mais utilizadas por Evellyn"
   >
 </p>
+
+<br>
+
+<p align="center">
+  <img
+    src="./footer-landscape.png"
+    alt=""
+    width="100%"
+    height="38"
+  >
+</p>
