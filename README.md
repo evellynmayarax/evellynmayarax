@@ -48,17 +48,15 @@
 
 <br>
 
-<h2 align="center">Estatísticas</h2>
-
 <p align="center">
   <img
     height="165"
-    src="https://github-stats-extended.vercel.app/api?username=evellynmayarax&show_icons=true&hide_border=false&border_color=262626&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=evellynmayarax&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=262626&locale=pt-br"
     alt="Estatísticas do GitHub de Evellyn"
   >
   <img
     height="165"
-    src="https://streak-stats.demolab.com?user=evellynmayarax&background=000000&border=262626&stroke=262626&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A3A3A3&sideLabels=A3A3A3&dates=737373&locale=pt_BR"
+    src="https://streak-stats.demolab.com?user=evellynmayarax&theme=dark&hide_border=false&border=262626&background=000000"
     alt="Sequência de contribuições de Evellyn"
   >
 </p>
@@ -66,7 +64,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=evellynmayarax&bg_color=000000&color=a3a3a3&line=ffffff&point=ffffff&area=true&area_color=404040&hide_border=false&border_color=262626&custom_title=Gráfico%20de%20contribuições"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=evellynmayarax&theme=github-compact&bg_color=000000&color=a3a3a3&line=ffffff&point=ffffff&hide_border=false"
     alt="Gráfico de contribuições de Evellyn"
   >
 </p>
