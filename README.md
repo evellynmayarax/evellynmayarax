@@ -48,23 +48,25 @@
 
 <br>
 
+<br>
+
 <p align="center">
   <img
-    height="165"
-    src="https://github-stats-extended.vercel.app/api?username=evellynmayarax&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&border_color=262626&locale=pt-br"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=evellynmayarax&amp;show_icons=true&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=a3a3a3&amp;icon_color=ffffff&amp;border_color=262626&amp;locale=pt-br"
     alt="Estatísticas do GitHub de Evellyn"
   >
   <img
-    height="165"
-    src="https://streak-stats.demolab.com?user=evellynmayarax&theme=dark&hide_border=false&border=262626&background=000000"
-    alt="Sequência de contribuições de Evellyn"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=evellynmayarax&amp;layout=compact&amp;bg_color=000000&amp;title_color=ffffff&amp;text_color=a3a3a3&amp;border_color=262626"
+    alt="Linguagens mais utilizadas por Evellyn"
   >
 </p>
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=evellynmayarax&theme=github-compact&bg_color=000000&color=a3a3a3&line=ffffff&point=ffffff&hide_border=false"
-    alt="Gráfico de contribuições de Evellyn"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=evellynmayarax&amp;theme=github_dark"
+    alt="Resumo das atividades de Evellyn"
   >
 </p>
