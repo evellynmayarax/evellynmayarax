@@ -15,8 +15,12 @@
 
 <table>
   <tr>
-    <td width="68%" valign="middle">
+    <td colspan="2">
       <h3>Sobre mim</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="68%" valign="middle">
       <p>
         Sou desenvolvedora Front-end e UI/UX Designer, com foco na criação de 
         experiências digitais que conectam estética, funcionalidade e propósito.
@@ -64,6 +68,5 @@
     src="./footer-landscape.png"
     alt=""
     width="100%"
-    height="38"
   >
 </p>
